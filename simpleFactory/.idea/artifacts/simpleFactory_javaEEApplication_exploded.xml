@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="simpleFactory:javaEEApplication exploded">
-    <output-path>$USER_HOME$/out/designPattern/designPattern</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="simpleFactory/javaeeApplication/javaEEApplication" />
-    </root>
-  </artifact>
-</component>
