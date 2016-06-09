@@ -1,7 +1,5 @@
 package abstractFactory;
 
-import abstractFactory.Alibaba;
-
 /**
  * Created by lzh on 3/28/16.
  */
