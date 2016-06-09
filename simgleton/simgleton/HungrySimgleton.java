@@ -1,4 +1,4 @@
-
+package simgleton;
 
 /**
  * Created by lzh on 3/30/16.

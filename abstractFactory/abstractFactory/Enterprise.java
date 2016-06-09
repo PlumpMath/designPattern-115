@@ -1,4 +1,4 @@
-
+package abstractFactory;
 
 /**
  * 企业

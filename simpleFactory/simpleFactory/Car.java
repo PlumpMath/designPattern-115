@@ -1,4 +1,4 @@
-
+package simpleFactory;
 
 /**
  * Created by lzh on 3/28/16.

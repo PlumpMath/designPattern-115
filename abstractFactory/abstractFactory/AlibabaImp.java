@@ -1,9 +1,11 @@
+package abstractFactory;
 
+import abstractFactory.Alibaba;
 
 /**
  * Created by lzh on 3/28/16.
  */
-public class AlibabaImp implements Alibaba{
+public class AlibabaImp implements Alibaba {
     public String ceo() {
         return "马云";
     }

@@ -1,4 +1,4 @@
-
+package strategy;
 /**
  * Created by lzh on 3/30/16.
  */

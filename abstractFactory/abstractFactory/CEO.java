@@ -1,4 +1,6 @@
+package abstractFactory;
 
+import abstractFactory.AbstractFactory;
 
 /**
  * Created by lzh on 3/28/16.
