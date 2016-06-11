@@ -1,22 +1,16 @@
 package bridge.test;
 
-import bridge.Baidu;
-import bridge.BaiduOne;
-import bridge.BridgeOne;
+import bridge.AbstractRoad;
+import bridge.Car;
+import bridge.Street;
 
 /**
- * Created by lzh on 3/29/16.
+ * Created by lzh on 16-6-11.
  */
 public class Test {
-    /**
-     * 桥接模式，区别适配器模式
-     * @param args
-     */
     public static void main(String[] args) {
-        Baidu baiduOne = new BaiduOne();
-//        Baidu baiduTwo = new BaiduTwo();
-        BridgeOne bridgeOne = new BridgeOne(baiduOne);
-        bridgeOne.search();
-        bridgeOne.result();
+        AbstractRoad abstractRoad = new Street();
+        abstractRoad.setCar(new Car());
+        abstractRoad.run();
     }
 }
