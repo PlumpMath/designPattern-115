@@ -1,10 +1,9 @@
 package abstractFactory;
 
 /**
- * Created by lzh on 3/28/16.
+ * Created by lzh on 16-6-10.
  */
 public interface AbstractFactory {
-    void setEnterprise(Class<? extends Enterprise> clazz);
-    String getCEO() throws ClassNotFoundException, IllegalAccessException, InstantiationException;
-    String getArchitect() throws ClassNotFoundException, IllegalAccessException, InstantiationException;
+    void windows();
+    void linux();
 }
