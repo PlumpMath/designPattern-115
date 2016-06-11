@@ -1,5 +1,6 @@
 package command.test;
 
+
 import command.*;
 
 /**
@@ -7,26 +8,12 @@ import command.*;
  */
 public class Test {
     public static void main(String[] args) {
-        Command eat = new Eat(new Lzh() {
-            @Override
-            public void eat() {
-                super.eat();
-            }
-        });
+        Lzh lzh = new Lzh();
+        Command eat = new Eat(lzh);
+        Command sleep = new Sleep(lzh);
+        Command walk = new Walk(lzh);
         eat.execute();
-        Command sleep = new Sleep(new Lzh() {
-            @Override
-            public void sleep() {
-                super.sleep();
-            }
-        });
         sleep.execute();
-        Command walk = new Walk(new Lzh() {
-            @Override
-            public void walk() {
-                super.walk();
-            }
-        });
         walk.execute();
     }
 }

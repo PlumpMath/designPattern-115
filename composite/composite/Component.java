@@ -2,6 +2,7 @@ package composite;
 
 /**
  * Created by lzh on 3/30/16.
+ * 组合模式。
  */
 public abstract class Component {
     String msg;

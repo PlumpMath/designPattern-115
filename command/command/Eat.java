@@ -1,7 +1,7 @@
 package command;
 
 /**
- * Created by lzh on 4/1/16.
+ * 具体命令。
  */
 public class Eat implements Command {
     private Lzh lzh;

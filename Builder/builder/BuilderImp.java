@@ -8,17 +8,17 @@ public class BuilderImp implements Builder {
     private Ant ant = new Ant();
     @Override
     public void buildHead() {
-        ant.setHead("head");
+        ant.setHead("build head");
     }
 
     @Override
     public void buildBody() {
-        ant.setBody("body");
+        ant.setBody("build body");
     }
 
     @Override
     public void buildTail() {
-        ant.setTail("tail");
+        ant.setTail("build tail");
     }
 
     @Override

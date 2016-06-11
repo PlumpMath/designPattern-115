@@ -13,6 +13,6 @@ public class Test {
         System.out.println("begin build.......");
         Ant ant = director.buildAnt();
         System.out.println("build end");
-        System.out.println(ant.getHead()+"\t"+ant.getBody()+"\t"+ant.getTail());
+        System.out.println(ant.getHead()+"\n"+ant.getBody()+"\n"+ant.getTail());
     }
 }

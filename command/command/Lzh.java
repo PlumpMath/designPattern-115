@@ -1,9 +1,10 @@
 package command;
 
 /**
- * Created by lzh on 4/1/16.
+ *
+ * 具体命令的执行者。
  */
-public abstract class Lzh {
+public  class Lzh {
     public void eat(){
         System.out.println("lzh eat");
     }
