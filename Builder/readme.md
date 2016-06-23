@@ -5,7 +5,7 @@
 主要解决在软件系统中，有时候面临着""一个复杂对象""的创建工作，其通常由各个部分的子对象用一定的算法构成；由于需
 求的变化，这个复杂对象的各个部分经常面临着剧烈的变化，但是将它们组合在一起的算法却相对稳定。
 ## 建造者的结构
-![建造者模式](https://github.com/lzh984294471/designPattern/raw/pics/builder.png)
+![建造者模式](https://github.com/lzh984294471/designPattern/raw/master/pics/builder.png)
 
 ## 抽象建造者（Builder）角色
 给出一个抽象接口，以规范产品对象的各个组成成分的建造。一般而言，此接口独立于应用程序的商业逻辑。模式中
