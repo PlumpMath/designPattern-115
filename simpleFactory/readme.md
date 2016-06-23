@@ -5,4 +5,4 @@
 (1) 工厂类负责创建的对象比较少，由于创建的对象比较少，不会造成工厂方法中的业务逻辑太过复杂。 <br>
 (2) 客户端只知道传入工厂类的参数，对于如何创建对象并不关心。 <br>
 ## UML类图分析
-[简单工厂模式](https://github.com/lzh984294471/designPattern/raw/master/pisc/simpleFactory)
+![简单工厂模式](https://github.com/lzh984294471/designPattern/raw/master/pics/simpleFactory)
