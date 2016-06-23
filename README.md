@@ -18,23 +18,23 @@
 > 4、[建造者模式](https://github.com/lzh984294471/designPattern/tree/master/Builder) <br>
 > 5、[原型模式](https://github.com/lzh984294471/designPattern/tree/master/Prototype) <br>
 > 6、[适配器模式](https://github.com/lzh984294471/designPattern/tree/master/adapter) <br>
-> 7、[桥接模式](https://github.com/lzh984294471/designPattern/master/bridge) <br>
-> 8、[命令模式](https://github.com/lzh984294471/designPattern/master/command) <br>
-> 9、[组合模式](https://github.com/lzh984294471/designPattern/master/composite) <br>
-> 10、[外观模式](https://github.com/lzh984294471/designPattern/master/facade) <br>
-> 11、[装饰模式](https://github.com/lzh984294471/designPattern/master/decorate) <br>
-> 12、[享元模式](https://github.com/lzh984294471/designPattern/master/flyweight) <br>
-> 13、[责任链模式](https://github.com/lzh984294471/designPattern/master/handler) <br>
-> 14、[迭代子模式](https://github.com/lzh984294471/designPattern/master/iterator) <br>
-> 15、[备忘录模式](https://github.com/lzh984294471/designPattern/master/memento) <br>
-> 16、[代理模式](https://github.com/lzh984294471/designPattern/master/proxy) <br>
-> 17、[状态模式](https://github.com/lzh984294471/designPattern/master/state) <br>
-> 18、[观察者模式](https://github.com/lzh984294471/designPattern/master/observer) <br>
-> 19、[策略模式](https://github.com/lzh984294471/designPattern/master/strategy) <br>
-> 20、[模板模式](https://github.com/lzh984294471/designPattern/master/template) <br>
-> 21、[访问者模式](https://github.com/lzh984294471/designPattern/master/visitor) <br>
-> 22、[中介者模式](https://github.com/lzh984294471/designPattern/master/mediator) <br>
-> 23、[解释器模式](https://github.com/lzh984294471/designPattern/master/interpreter) <br>
+> 7、[桥接模式](https://github.com/lzh984294471/designPattern/tree/master/bridge) <br>
+> 8、[命令模式](https://github.com/lzh984294471/designPattern/tree/master/command) <br>
+> 9、[组合模式](https://github.com/lzh984294471/designPattern/tree/master/composite) <br>
+> 10、[外观模式](https://github.com/lzh984294471/designPattern/tree/master/facade) <br>
+> 11、[装饰模式](https://github.com/lzh984294471/designPattern/tree/master/decorate) <br>
+> 12、[享元模式](https://github.com/lzh984294471/designPattern/tree/master/flyweight) <br>
+> 13、[责任链模式](https://github.com/lzh984294471/designPattern/tree/master/handler) <br>
+> 14、[迭代子模式](https://github.com/lzh984294471/designPattern/tree/master/iterator) <br>
+> 15、[备忘录模式](https://github.com/lzh984294471/designPattern/tree/master/memento) <br>
+> 16、[代理模式](https://github.com/lzh984294471/designPattern/tree/master/proxy) <br>
+> 17、[状态模式](https://github.com/lzh984294471/designPattern/tree/master/state) <br>
+> 18、[观察者模式](https://github.com/lzh984294471/designPattern/tree/master/observer) <br>
+> 19、[策略模式](https://github.com/lzh984294471/designPattern/tree/master/strategy) <br>
+> 20、[模板模式](https://github.com/lzh984294471/designPattern/tree/master/template) <br>
+> 21、[访问者模式](https://github.com/lzh984294471/designPattern/tree/master/visitor) <br>
+> 22、[中介者模式](https://github.com/lzh984294471/designPattern/tree/master/mediator) <br>
+> 23、[解释器模式](https://github.com/lzh984294471/designPattern/tree/master/interpreter) <br>
 
 ## 相关github项目
 
