@@ -36,10 +36,58 @@
 > 22、[中介者模式](https://github.com/lzh984294471/designPattern/tree/master/mediator) 
 > 23、[解释器模式](https://github.com/lzh984294471/designPattern/tree/master/interpreter) 
 
+## 任务完成情况
+<table>
+<thead>
+<tr>
+<th>任务名称</th><th>备注</th><th>任务名称</th><th>备注</th><th>任务名称</th><th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/simpleFactory">简单工厂模式</a></a></td><td>完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/abstractFactory">抽象工厂模式</a></td><td>完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/simgleton">单例模式</a></td><td>完成</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/Builder">建造者模式</a></td><td>完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/interpreter">解释器模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/Prototype">原型模式</a></td><td>完成</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/adapter">适配器模式</a></td><td>完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/bridge">桥接模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/command">命令模式</a></td><td style="color:red">未完成</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/composite">组合模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/facade">外观模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/decorate">装饰模式</a></td><td style="color:red">未完成</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/flyweight">享元模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/handler">责任链模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/iterator">迭代子模式</a></td><td style="color:red">未完成</td>
+</tr><tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/memento">备忘录模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/proxy">代理模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/state">状态模式</a></td><td style="color:red">未完成</td>
+</tr><tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/observer">观察者模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/strategy">策略模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/template">模板模式</a></td><td style="color:red">未完成</td>
+</tr>
+<tr>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/visitor">访问者模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/mediator">中介者模式</a></td><td style="color:red">未完成</td>
+</tr>
+</tbody>
+</table>
+
 ## 相关github项目
 
 [最近在看设计模式时在github上面看到了一个写的不错的有关设计模式的项目就fork了过了打算仔细看看](https://github.com/lzh-fork/DPModel)
-	
+
 
 ---------------------------------------------------------------------------------------------------------------------------
 <img src="https://raw.githubusercontent.com/lzh984294471/designPattern/master/pics/head.jpg">

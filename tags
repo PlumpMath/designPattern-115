@@ -107,7 +107,9 @@ Test	decorate/decorate/test/Test.java	/^public class Test {$/;"	c
 Test	facade/facade/test/Test.java	/^public class Test {$/;"	c
 Test	flyweight/flyweight/test/Test.java	/^public class Test {$/;"	c
 Test	handler/handler/test/Test.java	/^public class Test {$/;"	c
+Test	interpreter/interpreter/test/Test.java	/^public class Test {$/;"	c
 Test	iterator/iterator/test/Test.java	/^public class Test {$/;"	c
+Test	mediator/mediator/test/Test.java	/^public class Test {$/;"	c
 Test	memento/memento/test/Test.java	/^public class Test {$/;"	c
 Test	observer/observer/test/Test.java	/^public class Test {$/;"	c
 Test	proxy/proxy/test/Test.java	/^public class Test {$/;"	c
@@ -247,6 +249,7 @@ handler.test	handler/handler/test/Test.java	/^package handler.test;$/;"	p
 head	Builder/builder/Ant.java	/^    private String head;$/;"	f	class:Ant	file:
 in	flyweight/flyweight/ConcreteFlyweight.java	/^    String in;$/;"	f	class:ConcreteFlyweight
 index	iterator/iterator/IteratorImp.java	/^    private int index = 0;$/;"	f	class:IteratorImp	file:
+interpreter.test	interpreter/interpreter/test/Test.java	/^package interpreter.test;$/;"	p
 isLast	iterator/iterator/Iterator.java	/^    boolean isLast();$/;"	m	interface:Iterator
 isLast	iterator/iterator/IteratorImp.java	/^    public boolean isLast() {$/;"	m	class:IteratorImp
 iterator	iterator/iterator/Aggregate.java	/^package iterator;$/;"	p
@@ -277,7 +280,9 @@ main	decorate/decorate/test/Test.java	/^    public static void main(String[] arg
 main	facade/facade/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	flyweight/flyweight/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	handler/handler/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
+main	interpreter/interpreter/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	iterator/iterator/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
+main	mediator/mediator/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	memento/memento/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	observer/observer/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	proxy/proxy/test/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
@@ -288,6 +293,7 @@ main	strategy/strategy/test/Test.java	/^    public static void main(String[] arg
 main	template/template/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 main	visitor/visitor/Test.java	/^    public static void main(String[] args) {$/;"	m	class:Test
 mayun	adapter/adapter/Alibaba.java	/^    public void mayun(){$/;"	m	class:Alibaba
+mediator.test	mediator/mediator/test/Test.java	/^package mediator.test;$/;"	p
 memento	memento/memento/Caretaker.java	/^    private Memento memento;$/;"	f	class:Caretaker	file:
 memento	memento/memento/Caretaker.java	/^package memento;$/;"	p
 memento	memento/memento/Memento.java	/^package memento;$/;"	p
