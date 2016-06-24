@@ -1,4 +1,4 @@
-# designPattern
+# 设计模式
 
 > 设计模式是我们必须要掌握的一项技能 <br>
 > 设计模式（Design pattern）是一套被反复使用、多数人知晓的、经过分类编目的、代码设计经验的总结。使用设计模式是为了可重用代码、
@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/lzh984294471/designPattern/tree/master/adapter">适配器模式</a></td><td>完成</td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/bridge">桥接模式</a></td><td style="color:red">未完成</td>
+<td><a href="https://github.com/lzh984294471/designPattern/tree/master/bridge">桥接模式</a></td><td>完成</td>
 <td><a href="https://github.com/lzh984294471/designPattern/tree/master/command">命令模式</a></td><td style="color:red">未完成</td>
 </tr>
 <tr>
