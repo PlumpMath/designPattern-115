@@ -12,29 +12,32 @@
 
 ## 23种设计模式
 
-> 1、[简单工厂模式](https://github.com/lzh984294471/designPattern/tree/master/simpleFactory) 
-> 2、[抽象工厂模式](https://github.com/lzh984294471/designPattern/tree/master/abstractFactory) 
-> 3、[单例模式](https://github.com/lzh984294471/designPattern/tree/master/simgleton) 
-> 4、[建造者模式](https://github.com/lzh984294471/designPattern/tree/master/Builder) 
-> 5、[原型模式](https://github.com/lzh984294471/designPattern/tree/master/Prototype) 
-> 6、[适配器模式](https://github.com/lzh984294471/designPattern/tree/master/adapter) 
-> 7、[桥接模式](https://github.com/lzh984294471/designPattern/tree/master/bridge) 
-> 8、[命令模式](https://github.com/lzh984294471/designPattern/tree/master/command) 
-> 9、[组合模式](https://github.com/lzh984294471/designPattern/tree/master/composite) 
-> 10、[外观模式](https://github.com/lzh984294471/designPattern/tree/master/facade) 
-> 11、[装饰模式](https://github.com/lzh984294471/designPattern/tree/master/decorate) 
-> 12、[享元模式](https://github.com/lzh984294471/designPattern/tree/master/flyweight) 
-> 13、[责任链模式](https://github.com/lzh984294471/designPattern/tree/master/handler) 
-> 14、[迭代子模式](https://github.com/lzh984294471/designPattern/tree/master/iterator) 
-> 15、[备忘录模式](https://github.com/lzh984294471/designPattern/tree/master/memento) 
-> 16、[代理模式](https://github.com/lzh984294471/designPattern/tree/master/proxy) 
-> 17、[状态模式](https://github.com/lzh984294471/designPattern/tree/master/state) 
-> 18、[观察者模式](https://github.com/lzh984294471/designPattern/tree/master/observer) 
-> 19、[策略模式](https://github.com/lzh984294471/designPattern/tree/master/strategy) 
-> 20、[模板模式](https://github.com/lzh984294471/designPattern/tree/master/template) 
-> 21、[访问者模式](https://github.com/lzh984294471/designPattern/tree/master/visitor) 
-> 22、[中介者模式](https://github.com/lzh984294471/designPattern/tree/master/mediator) 
-> 23、[解释器模式](https://github.com/lzh984294471/designPattern/tree/master/interpreter) 
+> 1、创建型模式：
+> [简单工厂模式](https://github.com/lzh984294471/designPattern/tree/master/simpleFactory)、 
+> [抽象工厂模式](https://github.com/lzh984294471/designPattern/tree/master/abstractFactory)、 
+> [单例模式](https://github.com/lzh984294471/designPattern/tree/master/simgleton) 、
+> [建造者模式](https://github.com/lzh984294471/designPattern/tree/master/Builder)、 
+> [原型模式](https://github.com/lzh984294471/designPattern/tree/master/Prototype); <br>
+> 2、结构型模式：
+> [适配器模式](https://github.com/lzh984294471/designPattern/tree/master/adapter) 、
+> [桥接模式](https://github.com/lzh984294471/designPattern/tree/master/bridge)、
+> [代理模式](https://github.com/lzh984294471/designPattern/tree/master/proxy)、
+> [组合模式](https://github.com/lzh984294471/designPattern/tree/master/composite)、
+> [外观模式](https://github.com/lzh984294471/designPattern/tree/master/facade) 、
+> [装饰模式](https://github.com/lzh984294471/designPattern/tree/master/decorate)、 
+> [享元模式](https://github.com/lzh984294471/designPattern/tree/master/flyweight)；<br> 
+> 3、行为型模式:
+> [责任链模式](https://github.com/lzh984294471/designPattern/tree/master/handler)、 
+> [迭代子模式](https://github.com/lzh984294471/designPattern/tree/master/iterator) 、
+> [备忘录模式](https://github.com/lzh984294471/designPattern/tree/master/memento) 、
+> [命令模式](https://github.com/lzh984294471/designPattern/tree/master/command)、
+> [状态模式](https://github.com/lzh984294471/designPattern/tree/master/state) 、
+> [观察者模式](https://github.com/lzh984294471/designPattern/tree/master/observer) 、
+> [策略模式](https://github.com/lzh984294471/designPattern/tree/master/strategy) 、
+> [模板模式](https://github.com/lzh984294471/designPattern/tree/master/template) 、
+> [访问者模式](https://github.com/lzh984294471/designPattern/tree/master/visitor) 、
+> [中介者模式](https://github.com/lzh984294471/designPattern/tree/master/mediator) 、
+> [解释器模式](https://github.com/lzh984294471/designPattern/tree/master/interpreter);
 
 ## 任务完成情况
 <table>
@@ -45,41 +48,82 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/simpleFactory">简单工厂模式</a></a></td><td>完成</td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/abstractFactory">抽象工厂模式</a></td><td>完成</td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/simgleton">单例模式</a></td><td>完成</td>
-</tr>
-<tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/Builder">建造者模式</a></td><td>完成</td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/interpreter">解释器模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/Prototype">原型模式</a></td><td>完成</td>
-</tr>
-<tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/adapter">适配器模式</a></td><td>完成</td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/bridge">桥接模式</a></td><td>完成</td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/command">命令模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-</tr>
-<tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/composite">组合模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/facade">外观模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/decorate">装饰模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-</tr>
-<tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/flyweight">享元模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/handler">责任链模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/iterator">迭代子模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/simpleFactory">简单工厂模式</a>
+</td><td>完成</td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/abstractFactory">抽象工厂模式</a>
+</td><td>完成</td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/simgleton">单例模式</a>
+</td><td>完成</td>
 </tr><tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/memento">备忘录模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/proxy">代理模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/state">状态模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/Builder">建造者模式</a>
+</td><td>完成</td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/interpreter">解释器模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/Prototype">原型模式</a>
+</td><td>完成</td>
 </tr><tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/observer">观察者模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/strategy">策略模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/template">模板模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-</tr>
-<tr>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/visitor">访问者模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
-<td><a href="https://github.com/lzh984294471/designPattern/tree/master/mediator">中介者模式</a></td><td><font style="color:rgb(139, 0, 0)">未完成</span></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/adapter">适配器模式</a>
+</td><td>完成</td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/bridge">桥接模式</a>
+</td><td>完成</td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/command">命令模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</tr><tr>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/composite">组合模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/facade">外观模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/decorate">装饰模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</tr><tr>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/flyweight">享元模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/handler">责任链模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/iterator">迭代子模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</tr><tr>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/memento">备忘录模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/proxy">代理模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/state">状态模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</tr><tr>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/observer">观察者模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/strategy">策略模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/template">模板模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</tr><tr>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/visitor">访问者模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+<td>
+<a href="https://github.com/lzh984294471/designPattern/tree/master/mediator">中介者模式</a>
+</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
 </tr>
 </tbody>
 </table>
@@ -87,6 +131,8 @@
 ## 相关github项目
 
 [最近在看设计模式时在github上面看到了一个写的不错的有关设计模式的项目就fork了过了打算仔细看看](https://github.com/lzh-fork/DPModel)
+## 存在的问题
+> 在学习设计模式时，发现了一个问题：自己这样看别人例子，没有实践，对设计模式的理解不是特别容易。
 
 
 <img src="https://raw.githubusercontent.com/lzh984294471/designPattern/master/pics/head.jpg">
