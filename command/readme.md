@@ -18,7 +18,7 @@
 
 ## 命令模式结构图
 
-![命令模式](https://github.com/lzh984294471/designPattern/pics/command.jpg)
+![命令模式](https://github.com/lzh984294471/designPattern/raw/master/pics/command.jpg)
 
 ## 命令模式的优点
 1、在命令者模式中，请求者不直接与接受者互交，既请求者不包含接受者的引用，因

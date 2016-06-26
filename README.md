@@ -43,7 +43,9 @@
 <table>
 <thead>
 <tr>
-<th>任务名称</th><th>备注</th><th>任务名称</th><th>备注</th><th>任务名称</th><th>备注</th>
+<th>任务名称</th><th>备注</th>
+<th>任务名称</th><th>备注</th>
+<th>任务名称</th><th>备注</th>
 </tr>
 </thead>
 <tbody>
@@ -76,11 +78,11 @@
 </td><td>完成</td>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/command">命令模式</a>
-</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</td><td>完成</td>
 </tr><tr>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/composite">组合模式</a>
-</td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
+</td><td>完成</td>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/facade">外观模式</a>
 </td><td><font style="color:rgb(139, 0, 0)">未完成</font></td>
