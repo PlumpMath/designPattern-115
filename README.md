@@ -134,7 +134,7 @@
 
 [最近在看设计模式时在github上面看到了一个写的不错的有关设计模式的项目就fork了过了打算仔细看看](https://github.com/lzh-fork/DPModel)
 ## 存在的问题
-> 在学习设计模式时，发现了一个问题：自己这样看别人例子，没有实践，对设计模式的理解不是特别容易。
+> 在学习设计模式时，发现了一个问题：自己这样看别人例子，没有实践，对设计模式的理解不是特别容易。不过我尽我可能理解。
 
 
 <img src="https://raw.githubusercontent.com/lzh984294471/designPattern/master/pics/head.jpg">
