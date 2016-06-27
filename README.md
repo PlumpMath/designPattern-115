@@ -8,7 +8,12 @@
 
 ## 六大设计原则
 
-[六大设计原则](https://github.com/lzh984294471/designPattern/tree/master/principle)
+[单一职责原理](https://github.com/lzh984294471/designPattern/tree/master/principle#1单一职责原理-)  <br>
+[里氏替换原则](https://github.com/lzh984294471/designPattern/tree/master/principle#2里氏替换原则) <br>
+[依赖倒置原则](https://github.com/lzh984294471/designPattern/tree/master/principle#3依赖倒置原则) <br>
+[接口隔离原则](https://github.com/lzh984294471/designPattern/tree/master/principle#4接口隔离原则) <br>
+[迪米特法则](https://github.com/lzh984294471/designPattern/tree/master/principle#5迪米特法则) <br>
+[开闭原则](https://github.com/lzh984294471/designPattern/tree/master/principle#6开闭原则) <br>
 
 ## 23种设计模式
 
