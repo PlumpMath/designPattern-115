@@ -93,7 +93,7 @@
 </td><td>完成90%</td>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/decorate">装饰模式</a>
-</td><td>完成0%</td>
+</td><td>完成70%</td>
 </tr><tr>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/flyweight">享元模式</a>
