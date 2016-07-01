@@ -10,5 +10,6 @@ public class Test {
     public static void main(String[] args) {
         Flyweight flyweight  = FlyweightFactory.factory("lzh");
         flyweight.say("out");
+
     }
 }
