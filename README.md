@@ -141,5 +141,10 @@
 ## 存在的问题
 > 在学习设计模式时，发现了一个问题：自己这样看别人例子，没有实践，对设计模式的理解不是特别容易。不过我尽我可能理解。
 
+## 感悟
+
+最近发现一味的在网上google看博客是不行的，这样自己对知识很难有一个整体的把握，觉得google看博客和看书结合起来是一个很不错的选择。
 
 <img src="https://raw.githubusercontent.com/lzh984294471/designPattern/master/pics/head.jpg">
+
+----
