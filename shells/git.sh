@@ -1,4 +1,5 @@
-#/bin/bash
+#!/usr/bin/env bash
+
 if test -z $1 ;then
 	echo "\033[31m please input your branch !!!! \033[0m"
 	exit 1

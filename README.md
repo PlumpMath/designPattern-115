@@ -17,13 +17,13 @@
 
 ## 23种设计模式
 
-1、创建型模式：
+* 创建型模式：
 [简单工厂模式](https://github.com/lzh984294471/designPattern/tree/master/simpleFactory)、 
 [抽象工厂模式](https://github.com/lzh984294471/designPattern/tree/master/abstractFactory)、 
 [单例模式](https://github.com/lzh984294471/designPattern/tree/master/simgleton) 、
 [建造者模式](https://github.com/lzh984294471/designPattern/tree/master/Builder)、 
 [原型模式](https://github.com/lzh984294471/designPattern/tree/master/Prototype); <br>
-2、结构型模式：
+* 结构型模式：
 [适配器模式](https://github.com/lzh984294471/designPattern/tree/master/adapter) 、
 [桥接模式](https://github.com/lzh984294471/designPattern/tree/master/bridge)、
 [代理模式](https://github.com/lzh984294471/designPattern/tree/master/proxy)、
@@ -31,7 +31,7 @@
 [外观模式](https://github.com/lzh984294471/designPattern/tree/master/facade) 、
 [装饰模式](https://github.com/lzh984294471/designPattern/tree/master/decorate)、 
 [享元模式](https://github.com/lzh984294471/designPattern/tree/master/flyweight)；<br> 
-3、行为型模式:
+* 行为型模式:
 [责任链模式](https://github.com/lzh984294471/designPattern/tree/master/handler)、 
 [迭代子模式](https://github.com/lzh984294471/designPattern/tree/master/iterator) 、
 [备忘录模式](https://github.com/lzh984294471/designPattern/tree/master/memento) 、
