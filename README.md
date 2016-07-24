@@ -107,7 +107,7 @@
 </tr><tr>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/memento">备忘录模式</a>
-</td><td>完成0%</td>
+</td><td>完成90%</td>
 <td>
 <a href="https://github.com/lzh984294471/designPattern/tree/master/proxy">代理模式</a>
 </td><td>完成0%</td>
