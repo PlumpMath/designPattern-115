@@ -5,7 +5,7 @@ package simgleton;
  */
 public class HungrySimgleton {
     private static final HungrySimgleton HUNGRY_SIMGLETON = new HungrySimgleton();
-    private HungrySimgleton(){
+    protected HungrySimgleton(){
 
     }
     public static final HungrySimgleton getInstance(){

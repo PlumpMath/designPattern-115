@@ -5,7 +5,7 @@ package simgleton;
  */
 public class LazySimgleton {
     private static LazySimgleton lazySimgleton = null;
-    private LazySimgleton(){}
+    protected LazySimgleton(){}
     public static LazySimgleton getInstance(){
         //线程不安全
 //        if(lazySimgleton == null){
